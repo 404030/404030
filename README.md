@@ -10,6 +10,7 @@
     <a href="pagina_secundaria.html">Noticias</a>
 </body>
 </html>
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
